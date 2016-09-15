@@ -1,0 +1,2 @@
+KRB5_KTNAME=/etc/squid3/squid.keytab
+export KRB5_KTNAME
