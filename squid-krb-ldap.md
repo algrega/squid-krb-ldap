@@ -1,5 +1,5 @@
-#Squid on Docker
-###Active Directory/LDAP integration
+# Squid on Docker
+### Active Directory/LDAP integration
 ---
 
 ### DISCLAIMER
@@ -42,7 +42,7 @@ Non authenticated users won't be allowed to use the proxy.
 
 <br>
 
-##Configuration
+## Configuration
 
 ### <a name="ADSection"></a> First step: Active Directory
 - Create a simple domain user account, for example **"proxy.user**". This will be the account that Squid will use for both Kerberos/LDAP service authentication. 
