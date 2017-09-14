@@ -1,7 +1,7 @@
-#Squid on Docker
-###Active Directory/LDAP integration
+# Squid on Docker
+### Active Directory/LDAP integration
 ---
-#Quick start guide 
+### Quick start guide 
 (More info [here](https://github.com/algrega/squid-krb-ldap/blob/master/squid-krb-ldap.md))
 
 ### DISCLAIMER
